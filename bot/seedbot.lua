@@ -226,19 +226,19 @@ function create_config( )
     "leave_ban",
     "admin"
     },
-    sudo_users = {85831686},--Sudo users
+    sudo_users = {150575718},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[spammer-bot
 An advance Administration bot based on teleseed 
 spammer bot open sourced to:
-[source spammer bot](https://github.com/3pehrdev/spammer-bot)
+[source spammer bot](https://github.com)
 
 developed and founded
 By
-[blacklife admin](telegram.me/joker_admin_1)
+[blacklife admin](telegram.me)
 my chanell
-[chanell blacklifeTM](telegram.me/blacklifech)
+[chanell blacklifeTM](telegram.me)
 
  thanks to:
 mobin
@@ -247,8 +247,8 @@ mobin
 --
 
 special thanks to
-blacklifeTm
-teleseedTm
+//
+//
 ]],
     help_text_realm = [[
 Realm Commands:
